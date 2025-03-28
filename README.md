@@ -12,9 +12,9 @@ Systhetic Data Privacy (SDP) evaluation
 8. (2025 ICLR) Does Training with Synthetic Data Truly Protect Privacy?
 
 # Survey
-(2023 IJCAI)A Survey on Dataset Distillation: Approaches, Applications and Future Directions
-(2023 TPAMI) A comprehensive survey of dataset distillation
-(2023 TPAMI) Dataset distillation: A comprehensive review
+1. (2023 IJCAI)A Survey on Dataset Distillation: Approaches, Applications and Future Directions
+2. (2023 TPAMI) A comprehensive survey of dataset distillation
+3. (2023 TPAMI) Dataset distillation: A comprehensive review
 
 # GitHub
 https://github.com/Guang000/Awesome-Dataset-Distillation
