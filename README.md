@@ -11,6 +11,9 @@ Systhetic Data Privacy (SDP) evaluation
 7. (2024 ICC)Adaptive Backdoor Attacks Against Dataset Distillation for Federated Learning
 8. (2025 ICLR) Does Training with Synthetic Data Truly Protect Privacy?
 
+# Sok
+(2024 S&P) SoK: Privacy-Preserving Data Synthesis
+
 # Survey
 1. (2023 IJCAI)A Survey on Dataset Distillation: Approaches, Applications and Future Directions
 2. (2023 TPAMI) A comprehensive survey of dataset distillation
