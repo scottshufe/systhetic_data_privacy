@@ -9,7 +9,7 @@ Systhetic Data Privacy (SDP) evaluation
 5. (2023 NDSS) Backdoor attacks against dataset distillation
 6. (2024 ICLR) Understanding Reconstruction Attacks with the Neural Tangent Kernel and Dataset Distillation 
 7. (2024 ICLR) Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective
-8. (2024 ICC)Adaptive Backdoor Attacks Against Dataset Distillation for Federated Learning
+8. (2024 ICC) Adaptive Backdoor Attacks Against Dataset Distillation for Federated Learning
 9. (2024 NDSS Workshop) Differentially Private Dataset Condensation
 10. (2025 ICLR) Does Training with Synthetic Data Truly Protect Privacy?
 
